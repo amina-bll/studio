@@ -1,0 +1,7 @@
+{
+  "name": "تيكيد - Tekkid STEM Platform",
+  "description": "منصة تعليمية ثلاثية الأبعاد تفاعلية للأطفال لتعلم العلوم والتكنولوجيا والهندسة والرياضيات باللغة العربية.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
